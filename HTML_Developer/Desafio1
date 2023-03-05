@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <title>Desenvolvedor Front-end</title>
+    </head>
+    <body>
+        <font color="#7F03D0" face="Verdana, Geneva, sans-serif"><h1>O que um Front-end Developer precisa saber para ter sucesso</h1></font>
+        <hr>
+        <h2 id="voltar">Conteúdo</h2>
+        <ol>
+            <li><a href="#descricao">O que é um Front End Developer</a></li>
+            <li><a href="#mercado">O mercado de trabalho</a></li>
+            <li><a href="#salario">Quanto ganha um desenvolvedor Front End</a></li>
+            <li><a href="#linguagens">Quais são as linguagens utilizadas</a></li>
+            <li><a href="#habilidades">Quais são as habilidades necessárias</a></li>
+        </ol>
+
+        <font color="#7F03D0" face="Verdana, Geneva, sans-serif"><h2 id="descricao"><u>O que é um Front End Developer</u></h2></font>
+        <small><a href="#voltar">Voltar</a></small>
+        <p>
+            Um desenvolvedor front-end lê um arquivo de design e cria um plano para transformar esse design em um código funcional (que pode estar escrito em uma das linguagens disponíveis para isso). 
+        </p>
+        <p>
+            Um navegador da web então renderiza esse código quando você entra em um site. Mais para frente veremos quais são as principais linguagens de programação usadas para construir o front-end de um site. 
+        </p>
+        <p><strong>
+            A principal responsabilidade de um front-end developer é <mark>criar uma experiência de usuário funcional e agradável</mark>.
+        </strong></p>
+        <p>
+            Isso cobre tudo o que o usuário vê, de texto e imagens a menus e barras de navegação. Os desenvolvedores de front-end são responsáveis por tudo isso. 
+        </p>
+        <p>
+            Os usuários devem ser capazes de navegar facilmente em um site e obter as respostas que procuram antes. Também não devem haver erros ou inconsistências no processo (bugs). 
+        </p>
+        <p>
+            Por exemplo, imagine que o engenheiro de back-end de uma plataforma de streaming trabalhou no algoritmo para determinar qual conteúdo cada usuário deve ver.
+        </p>
+        <p>
+            Então o desenvolvedor de front-end é responsável por pegar essas informações e exibi-las da maneira mais atraente e funcional para o usuário final.
+        </p>
+        <p>
+            Por causa do componente visual do desenvolvimento de front-end, as funções dos desenvolvedores front-end às vezes são confundidas com web design, mas isso é assunto para um outro artigo.
+        </p>
+        <p>
+            Um resuminho dessa diferença:
+        </p>
+        <blockquote><i>O web design envolve muita pesquisa de usuário para descobrir como as pessoas irão realmente interagir com o software, enquanto o desenvolvimento de front-end codifica a interface.</i></blockquote>
+        <p>
+            Às vezes, uma pessoa fará as duas coisas, mas isso pode ser problemático porque significa que o modelo de software (como devs pensam o código) será o mesmo apresentado na interface, sendo que a interface deveria ser codada pensando no usuário.
+        </p>
+        <font color="#7F03D0" face="Verdana, Geneva, sans-serif"><h2 id="mercado"><u>O mercado de trabalho</u></h2></font>
+        <small><a href="#voltar">Voltar</a></small>
+        <p>Os desenvolvedores de front-end são muito procurados. O desenvolvimento de front-end é uma habilidade valiosa na indústria de tecnologia.</p>
+        <p>Embora os aplicativos móveis estejam em alta, é difícil descrever com exatidão o quão importantes os sites são no nosso dia a dia.</p>
+        <p>Hoje mesmo, por exemplo, você deve ter visitado pelo menos um site, afinal você está aqui. Mas você provavelmente visitou muitos mais. Talvez um site de notícias ou uma rede social.</p>
+        <p>Esse artigo fala melhor sobre a história e o futuro do mercado de Front-end:</p>
+        <blockquote><i>Saca só a <a href="https://geekblogti.wpengine.com/mercado-front-end-da-origem-ate-o-futuro/" target="_blank"> a origem até o futuro do mercado Front-end</a>!</i></blockquote>
+    
+        <font color="#7F03D0" face="Verdana, Geneva, sans-serif"><h2 id="salario"><u>Quanto ganha um desenvolvedor Front End</u></h2></font>
+        <small><a href="#voltar">Voltar</a></small>
+        <p>Segundo o site <a href="https://www.salario.com.br/profissao/programador-front-end-cbo-317110/" target="_blank">Salario.com</a>, a faixa salarial de um Front-End developer fica entre R$ 3.400,00 (dev Jr.) e R$ 10.000,00 (dev sênior), sendo que a média salarial é de R$ 4.000,00 em 2021 (valores arredondados), levando em conta profissionais em regime <abbr title="Consolidação das Leis do Trabalho">CLT</abbr> de todo o Brasil.</p>
+        <p><strong>Falando em números da GeekHunter, a média salarial é de criar uma experiência de usuário funcional e agradável <mark>R$ 6.450,00</mark>.</strong>Para quem é júnior, <mark>R$ 4.208,00</mark> e para quem é sênior, <mark>R$ 7.915,00</mark>.</p>
+        <p>Esses dados estão atualizados! Você pode conferir as <a href="https://www.geekhunter.com.br/vagas?tech=front-end?utm_source=blog&utm_medium=texto_ancora&utm_campaign=front_end_developer" target="_blank">vagas de Front End</a> da plataforma para confirmar.</p>
+    
+        <font color="#7F03D0" face="Verdana, Geneva, sans-serif"><h2 id="linguagens"><u>Quais são as linguagens utilizadas</u></h2></font>
+        <small><a href="#voltar">Voltar</a></small>
+        <p>Há um ditado sobre se usar “a ferramenta certa para o trabalho certo” e ele se aplica muito bem às linguagens de programação. Nem todas são projetadas da mesma forma e é por isso que elas não são igualmente boas para tudo.</p>
+        <p>Por exemplo, React é ótimo para construir componentes de IU (Interface do Usuário), facilitando a interatividade delas. Além disso, torna o código mais fácil de entender e iniciar.</p>
+        <p>Já Vue é um framework muito utilizado para criar aplicações single page (página única) e também para desenvolver vários tipos de interfaces, que possuem necessidades de maior interação e experiência mais valorosa para o usuário.</p>
+        <p>Por isso é importante entender as diferentes linguagens de programação para que você possa escolher a perfeita para o seu trabalho.</p>
+        <p>Então vamos dar uma olhada nas 4 melhores linguagens de programação para desenvolvimento front-end em 2021.</p>
+        <h3>JavaScript</h3>
+        <p>Se você está com pressa e precisa aprender apenas uma linguagem rapidamente, eu recomendaria o JavaScript, e para estudar, confira <a href="https://geekblogti.wpengine.com/curso-javascript/" target="_blank">confira esses cursos JavaScript</a>. São os melhores cursos para um front-end developer aprender JS.</p>
+        <p>Não há dúvida de que JavaScript é o rei do desenvolvimento web e a linguagem mais popular entre os desenvolvedores front-end.</p>
+        <p>É também a única linguagem que permite criar aplicativos da web, front-end e back-end, bem como aplicativos móveis (React Native).</p>
+        <p>O ponto forte do Javascript são as incríveis estruturas e bibliotecas que ele possui para desenvolvimento web e desenvolvimento de aplicativos.</p>
+        <h3>React</h3>
+        <p>React não é bem uma linguagem, mas sim uma biblioteca JavaScript. Ela é mantida pelo Facebook, sendo ideal para o desenvolvimento web moderno e para aplicativos renderizados nativos para dispositivos Android e iOS (React Native).</p>
+        <p>Além de ser uma ferramenta poderosa, ela é fácil de ser aprendida. Também é possível integrar com outras bibliotecas de programação, dependendo da sua demanda.</p>
+        <p>Ele possui 4 grandes conceitos que são mais importantes, que são: Componentes, JSX, State e Props. Você pode conferir mais sobre <a href="https://geekblogti.wpengine.com/como-aprender-react" target="_blank">Como Aprender React</a>.</p>
+        <h3>TypeScript</h3>
+        <p>TypeScript é uma linguagem de programação moderna. Sua parte boa é que ela adiciona segurança ao código JavaScript, o que significa que você pode detectar erros ​​relacionados ao tipo de JavaScript na fase de desenvolvimento.</p>
+        <p>Ela também torna o desenvolvimento de código orientado a objetos fácil para JavaScript e várias ferramentas de depuração integradas do TypeScript tornam o desenvolvimento web realmente fácil.</p>
+        <p>Então, se você tiver que escolher uma linguagem de programação moderna para aprender em 2021, recomendamos aprender a TypeScript.</p>
+        <blockquote><i><a href="https://geekblogti.wpengine.com/introducao-a-typescript/" target="_blank">Introdução ao Typescript</a>: o que é e como começar! </i></blockquote>
+        <h3>HTML e CSS</h3>
+        <p>Ok, HTML não é uma linguagem front-end propriamente dita, ela está mais para uma linguagem de <strong>marcação</strong><sup>1</sup>, utilizada para fins estruturais.</p>
+        <p>HTML e CSS são a espinha dorsal para o desenvolvimento web e todos nessa área devem aprendê-los.</p>
+        <p>HTML fornece a estrutura enquanto CSS fornece o estilo e os ajuda a terem uma aparência melhor e mais atraente visualmente. Se você deseja se tornar um desenvolvedor front-end sério, deve dominar esse combo em 2021.</p>
+        <p>O bom deles é que você pode dominá-los facilmente em poucas semanas, pois são relativamente mais fáceis de aprender.</p>
+
+        <font color="#7F03D0" face="Verdana, Geneva, sans-serif"><h2 id="habilidades"><u>Quais as habilidades necessárias</u></h2></font>
+        <small><a href="#voltar">Voltar</a></small>
+        <p>O que é preciso para ser competitivo no mercado de trabalho? Existem várias habilidades essenciais que os empregadores procuram ao contratar desenvolvedores web.</p>
+        <p>Se você deseja aprender como se tornar um desenvolvedor front-end, deve incluir proficiência com as seguintes ferramentas ao seu conjunto de habilidades profissionais.</p>
+        <ul>
+            <li>JavaScript</li>
+            <li>Manipulação DOM</li>
+            <li>AJAX</li>
+            <li>SQL e NoSQL</li>
+        </ul>
+        <p>A codificação pode ser aprendida, acessível e acolhedora para todos.</p>
+        <p>Com um pouco de esforço e conhecimento, um desenvolvedor experiente pode transformar uma página estática e entediante em uma experiência dinâmica e responsiva.</p>
+        <p>Como Front-End developer, você pode fazer trabalhos realmente maravilhosos e criar uma experiência muito positiva para os clientes da empresa com que estiver trabalhando</p>
+
+        <del>Testando a tag del</del>
+        
+    </body>
+</html>
